@@ -1,0 +1,5 @@
+CATALOGUE_HOST: catalogue.devidevops.online
+USER_HOST: user.devidevops.online
+CART_HOST: cart.devidevops.online
+SHIPPING_HOST: shipping.devidevops.online
+PAYMENT_HOST: payment.devidevops.online

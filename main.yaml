@@ -1,0 +1,5 @@
+- name: Installing Roboshop project
+  hosts: localhost #pulling into local server in roboshop-infra-dev
+  become: yes
+  roles:
+  - "{{component}}"
